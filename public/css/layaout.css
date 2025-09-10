@@ -1,0 +1,22 @@
+        .navbar-brand {
+            font-weight: bold;
+            color: #007bff !important;
+        }
+        .card-header {
+            background: linear-gradient(135deg, #007bff, #0056b3);
+            color: white;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #007bff, #0056b3);
+            border: none;
+        }
+        .btn-primary:hover {
+            background: linear-gradient(135deg, #0056b3, #003d82);
+        }
+        .table-hover tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            margin-top: 50px;
+        }

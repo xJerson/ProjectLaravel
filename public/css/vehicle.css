@@ -1,0 +1,16 @@
+    .btn-group-actions .btn {
+        margin: 0 2px;
+    }
+    .modal-header {
+        background: linear-gradient(135deg, #007bff, #0056b3);
+        color: white;
+    }
+    .table-responsive {
+        border-radius: 0.5rem;
+    }
+    .dt-buttons {
+        margin-bottom: 1rem;
+    }
+    .dt-button {
+        margin-right: 0.5rem !important;
+    }
